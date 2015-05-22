@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aa
 jjkjkhkhjkhjk
+=======
+aadfgdfgdfgf
+>>>>>>> origin/master
